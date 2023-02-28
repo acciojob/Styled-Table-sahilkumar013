@@ -1,1 +1,17 @@
 /* your code */
+.stats {
+	border-radius:20px;
+	background-color: lightgray;
+	align-content: center;
+}
+
+.headr{
+	background-color: lightblue;
+	border-radius: 10px;
+}
+table {
+  width: 100%;
+  border: 1px solid black;
+  border-radius: 5px;
+	
+}
