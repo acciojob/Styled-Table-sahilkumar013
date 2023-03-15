@@ -2,7 +2,8 @@
 .stats {
 	border-radius:20px;
 	background-color: lightgray;
-	align-content: center;
+/* 	align-content: center; */
+	text-align:center
 }
 
 .headr{
